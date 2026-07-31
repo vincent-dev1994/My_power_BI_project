@@ -10,7 +10,7 @@ From fundamental calculations to advanced time intelligence and performance opti
 industry best practices used by modern Business Intelligence teams.
 
 ## Project Objectives
-•	Design interactive, executive-level Power BI dashboards.
+-	Design interactive, executive-level Power BI dashboards.
 •	Build optimized DAX measures for real business reporting.
 •	Apply advanced data modeling techniques using Star Schema.
 •	Transform raw business data into actionable insights.
