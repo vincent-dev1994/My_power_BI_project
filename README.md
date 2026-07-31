@@ -35,7 +35,9 @@ This repository includes multiple business projects covering:
 -	Financial Reporting & Time Intelligence
 -	Customer Analytics
 -	Profitability Analytics
-Each project demonstrates the complete analytics workflow, from data modeling and DAX development to interactive dashboard design and business storytelling.
+  
+Each project demonstrates the complete analytics workflow, from data modeling and DAX development to 
+interactive dashboard design and business storytelling.
 Business Impact
 
 ## This portfolio illustrates my ability to:
